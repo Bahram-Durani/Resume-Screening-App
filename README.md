@@ -31,3 +31,7 @@ The primary goal of the project is to automate the categorization of candidates 
 Example: For instance, consider a company looking to hire a Data Scientist. By implementing an ML-based resume parsing system, the HR department can input specific keywords and criteria related to Data Science into the algorithm. The system then automatically scans through incoming resumes, identifies candidates with relevant experience in Data Science, and categorizes them accordingly. This streamlines the recruitment process and ensures that only qualified candidates are considered for the position.
 
 In summary, the Resume project utilizing ML and NLP algorithms offers a transformative solution to the challenges associated with manual resume screening. By automating the analysis of resumes, organizations can save time, improve accuracy, and make more informed hiring decisions, ultimately driving business success.
+
+# Note: 
+
+The file clf.pkl was not uploaded to GitHub as it exceeds 25MB in size. After running Resume_project.ipynb, you will generate the clf.pkl file and can continue with the rest of the project.
